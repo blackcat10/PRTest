@@ -1,4 +1,4 @@
 # declare variables
-a, b=1, 10
+a, b=1, -8
 # print
 print(a+b)
