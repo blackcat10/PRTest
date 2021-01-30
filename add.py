@@ -1,3 +1,3 @@
 # declare variables
-a, b=1, 2
+a, b=1, 4
 print(a+b)
